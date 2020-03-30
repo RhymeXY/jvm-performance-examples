@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.xy</groupId>
 	<artifactId>jvm-performance-examples</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>jvm-performance-examples</name>
 	<description>About JVM performance examples, for instance, the usage of CPU is 100%.</description>
 
